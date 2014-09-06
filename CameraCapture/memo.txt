@@ -1,0 +1,6 @@
+参考
+	ソース
+		OpenCV 2.2.0 C:\OpenCV2.2\samples\cpp\laplace.cpp
+	OpenCV
+		http://docs.opencv.org/modules/highgui/doc/reading_and_writing_images_and_video.html#videocapture
+		http://opencv.jp/opencv-2.1/cpp/reading_and_writing_images_and_video.html#videocapture
